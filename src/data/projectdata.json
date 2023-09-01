@@ -1,0 +1,79 @@
+[{
+        "id": "1",
+        "name": "Mon Vieux Grimoire",
+        "year": "2023",
+        "image": "./assets/images/project/Monvieuxgrimoire.png",
+        "git": "https://github.com/LaM0usse/7-Projet",
+        "description": "Création de la partie backend en NodeJS du site Mon Vieux Grimoire, un site de notation de livres.",
+        "details": "Une des difficultés fut d'apprendre à créer et implémenter une base de données.",
+        "skill": "Node.js /Express /MongoDB",
+        "imagesproject":"./assets/images/project/monvieuxgrimoire0.png",
+        "imagesproject1":"./assets/images/project/monvieuxgrimoire1.png",
+        "imagesproject2":"./assets/images/project/monvieuxgrimoire2.png",
+        "imagesproject3":"./assets/images/project/monvieuxgrimoire3.png"
+    },
+    {
+        "id": "2",
+        "name": "Booki",
+        "year": "2023",
+        "image": "./assets/images/project/Booki.png",
+        "link": "https://lam0usse.github.io/2-Projet/",
+        "git": "https://github.com/LaM0usse/2-Projet",
+        "description": "Création d'une page d'accueil vitrine pour Booki, un site de locations immobilières et d'activités touristiques.",
+        "details": "Une des difficultés fut de créer un design responsive qui s'adapte bien aux différentes tailles d'écran tout en préservant le modèle.",
+        "skill": "HTML /CSS",
+        "imagesproject":"./assets/images/project/booki0.png"
+    },
+    {
+        "id": "3",
+        "name": "Sophie Bluel",
+        "year": "2023",
+        "image": "./assets/images/project/SophieBluel.png", 
+        "git": "https://github.com/LaM0usse/3-Projet",
+        "description": "Création d'un site web dynamique en JavaScript pour la photographe Sophie Bluel.",
+        "details": "Une des difficultés fut de récupérer les données via une API et de les afficher en temps réel.",
+        "skill": "HTML /CSS /JavaScript",
+        "imagesproject":"./assets/images/project/sophiebluel0.png",
+        "imagesproject1":"./assets/images/project/sophiebluel1.png",
+        "imagesproject2":"./assets/images/project/sophiebluel2.png"
+    },{
+        "id": "4",
+        "name": "Kasa",
+        "year": "2023",
+        "image": "./assets/images/project/Kasa.png",
+        "git": "https://github.com/LaM0usse/6-Projet",
+        "description": "Création from scratch du site Kasa en React, un site de locations immobilières en ligne.",
+        "details": "Une des difficultés fut de gérer les différentes routes de l'application.",
+        "skill": "React /JSX /React-router",
+        "imagesproject":"./assets/images/project/kasa0.png",
+        "imagesproject1":"./assets/images/project/kasa1.png",
+        "imagesproject2":"./assets/images/project/kasa2.png"
+    },{
+        "id": "5",
+        "name": "Robbie Lens",
+        "year": "2023",
+        "image": "./assets/images/project/RobbieLens.png",
+        "link": "https://lam0usse.github.io/RobbieLens/",
+        "git": "https://github.com/LaM0usse/RobbieLens",
+        "description": "Création d'un site web pour la photographe Robbie Lens.",
+        "details": "Une des difficultés fut la mise en place des différents éléments stylistiques.",
+        "skill": "HTML /CSS",
+        "imagesproject":"./assets/images/project/robbielens0.png",
+        "imagesproject1":"./assets/images/project/robbielens1.png",
+        "imagesproject2":"./assets/images/project/robbielens2.png"
+        
+    },{
+        "id": "6",
+        "name": "Nina Carducci",
+        "year": "2023",
+        "image": "./assets/images/project/NinaCarducci.png",
+        "link": "https://lam0usse.github.io/5-Projet/",
+        "git": "https://github.com/LaM0usse/5-Projet",
+        "description": "Debuggage et optimisation d'un site web pour la photographe Nina Carducci.",
+        "details": "Une des difficultés fut l'optimisation des images pour répondre aux performances attendues.",
+        "skill": "Lighthouse /SEO /Debuggage",
+        "imagesproject":"./assets/images/project/ninacarducci0.png",
+        "imagesproject1":"./assets/images/project/ninacarducci1.png",
+        "imagesproject2":"./assets/images/project/ninacarducci2.png"
+    }
+]

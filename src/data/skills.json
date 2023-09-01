@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "category": "Frontend",
+        "skills": [
+            {
+                "name": "HTML",
+                "image": "./assets/images/logo/html.svg"
+            },
+            {
+                "name": "CSS",
+                "image": "./assets/images/logo/css.svg"
+            },
+            {
+                "name": "JavaScript",
+                "image": "./assets/images/logo/javascript.svg"
+            },
+            {
+                "name": "React",
+                "image": "./assets/images/logo/react.svg"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "category": "Backend",
+        "skills": [
+            {
+                "name": "Node.js",
+                "image": "./assets/images/logo/nodejs.svg"
+            },
+            {
+                "name": "Express.js",
+                "image": "./assets/images/logo/express.svg"
+            }, 
+            {
+                "name": "MongoDB",
+                "image": "./assets/images/logo/mongodb.svg"
+            },
+            {
+                "name": "Postman",
+                "image": "./assets/images/logo/postman.svg"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "category": "Autres",
+        "skills": [
+            {
+                "name": "GitHub",
+                "image": "./assets/images/logo/github.svg"
+            },
+            {
+                "name": "Git",
+                "image": "./assets/images/logo/git.svg"
+            },
+            {
+                "name": "Figma",
+                "image": "./assets/images/logo/figma.svg"
+            },
+            {
+                "name": "Procreate",
+                "image": "./assets/images/logo/procreate.svg"
+            }
+        ]
+    }
+]
